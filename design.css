@@ -1,0 +1,102 @@
+.margintop10{
+    margin-top: 10px;
+}
+.margintop20{
+    margin-top: 20px;
+}
+.margintop50{
+    margin-top: 50px;
+}
+.marginbottom10{
+    margin-bottom: 10px;
+}
+.marginbottom20{
+    margin-bottom: 20px;
+}
+.marginbottom50{
+    margin-bottom: 50px;
+}
+.forml{
+    padding: 50px;
+    background-color:#c2cbc5;
+    border-radius: 7px;
+}
+
+.formll{
+    padding: 50px;
+    background-color:#7facd6;
+    border-radius: 7px;
+}
+.button-51 {
+  background-color: transparent;
+  border: 1px solid #266DB6;
+  box-sizing: border-box;
+  color: #00132C;
+  font-family: "Avenir Next LT W01 Bold",sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  padding: 16px 23px;
+  position: relative;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+
+.button-51:hover,
+.button-51:active {
+  outline: 0;
+}
+
+.button-51:hover {
+  background-color: transparent;
+  cursor: pointer;
+}
+
+.button-51:before {
+  background-color: #D5EDF6;
+  content: "";
+  height: calc(100% + 3px);
+  position: absolute;
+  right: -7px;
+  top: -9px;
+  transition: background-color 300ms ease-in;
+  width: 100%;
+  z-index: -1;
+}
+
+
+.button-51:hover:before {
+  background-color: #6DCFF6;
+}
+
+@media (min-width: 768px) {
+  .button-51 {
+    padding: 16px 32px;
+  }
+}
+
+
+#search:focus{
+  width: 200px;
+}
+#search{
+   padding: 5px;
+   border: 3px solid rgb(195, 196, 197);
+   border-radius: 40px;
+   outline: none;
+   width: 30px;
+   padding-left: 20px;
+   background: url('./images/sicon.png') right no-repeat;
+   transition: 2s;
+   -webkit-transition: 2s;
+   -moz-transition: 2s;
+   -o-transition: 2s;
+   -ms-transition: 2s;
+}
+*{
+  font-family: Arial, Helvetica, sans-serif;
+
+}
