@@ -1,4 +1,4 @@
-# <img src="/images/CRM2.png" alt=" "> Application de gestion des relations clientèles(CRM)
+# <img src="/images/0220514_214153.png" alt=" "> Application de gestion des relations clientèles(CRM)
 
 ***sommaire :*** 
 
@@ -94,7 +94,7 @@ Il y a trois options dans cette page :
      *  "Félicitation! Votre mot de passe est modifié avec succés "   
         <div id='id8'/>  
 **************************************************************************************************    
-### &nbsp; &nbsp; &nbsp; ***4) Interface "Client"***  
+### <img src="/images/clent1.png" alt=" "> &nbsp; &nbsp; &nbsp; ***4) Interface "Client"***  
 <img src="/images/1.png" alt=" ">   
 
 Il y a trois options dans cette page :  
