@@ -50,7 +50,7 @@ Si les données fournies sont incorrectes l’utilisateur va être redirigé ver
      
      
 •&nbsp;***La 3ème partie :*** c'est un lien qui nous mène a la page **"créer un compte".**  
-&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img src="/images/1.png" alt=" ">  
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img src="/images/AJOUT1.png" alt=" ">  
  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Il faut remplir ici les champs suivants pour ajouter un nouveau utilisateur (nom utilisateur,mot de passe,confirmer mot de passe,email)
         <div id='id4'/>  
 **************************************************************************************************   
@@ -59,9 +59,9 @@ Si les données fournies sont incorrectes l’utilisateur va être redirigé ver
  
  - **1ere partie :** c'est le menu qui contient le nom des interfaces aisi que le nom d'urilisateur selon le cas:  
    - un admin : Il peut acceder à la liste des utilisateurs et il a le droit de faire les modifications,suppressions et ajouts.   
-   - <img src="/images/1.png" alt=" ">  
+   - <img src="/images/ADMIN1.png" alt=" ">  
    - un visiteur : Il ne peut pas acceder à la liste des utilisateurs et il n'a pas le droit de faire les modifications,suppressions et ajouts.  
-   - <img src="/images/1.png" alt=" ">  
+   - <img src="/images/USER1.png" alt=" ">  
  
  
  - **2ème partie :** Il contient l'ensemble des nombres d'elements de chaque interface.   
@@ -72,16 +72,17 @@ Si les données fournies sont incorrectes l’utilisateur va être redirigé ver
         <div id='id5'/>  
 **************************************************************************************************   
 ### &nbsp; &nbsp; &nbsp; ***3) Interface "Utilisateurs"***   
-<img src="/images/1.png" alt=" ">  
+<img src="/images/UTIL1.png" alt=" ">  
 
 Il y a trois options dans cette page : 
 - **supression**  
+<img src="/images/SUP1.png" alt=" ">  
 
 - **activer/desactiver**  
         <div id='id6'/>  
         
 - **modifier un utilisateur**   
-- <img src="/images/1.png" alt=" ">   
+- <img src="/images/MPDIF2.png" alt=" ">   
  On peut modifier 4 champs:  
      - login  
      - email  
@@ -89,7 +90,7 @@ Il y a trois options dans cette page :
      <div id='id7'/>
      
      - **mot de passe**  
-     - <img src="/images/1.png" alt=" ">
+     - <img src="/images/PWD2.png" alt=" ">
      
      aprés avoir changer le mot de passe il y a deux resultats possible:  
      * "Erreur! ancien mot de passe est incorrect !!!! "  
