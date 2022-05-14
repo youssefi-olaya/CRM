@@ -78,24 +78,24 @@ Il y a trois options dans cette page :
 - **supression**  
 <img src="/images/SUP1.png" alt=" ">  
 
-- **activer/desactiver**  
+- **activer/desactiver**   
         <div id='id6'/>  
         
 - **modifier un utilisateur**   
-- <img src="/images/MPDIF2.png" alt=" ">   
+  <img src="/images/MODIF2.png" alt=" ">   
  On peut modifier 4 champs:  
      - login  
      - email  
      - role  
-     <div id='id7'/>
-     
+     <div id='id7'/>  
+          
      - **mot de passe**  
-     - <img src="/images/PWD2.png" alt=" ">
+            <img src="/images/PWD2.png" alt=" ">
      
      aprés avoir changer le mot de passe il y a deux resultats possible:  
      * "Erreur! ancien mot de passe est incorrect !!!! "  
-     *  "Félicitation! Votre mot de passe est modifié avec succés "   
-        <div id='id8'/>  
+     * "Félicitation! Votre mot de passe est modifié avec succés " 
+     <div id='id8'/>    
 **************************************************************************************************    
 ### <img src="/images/clent1.png" alt=" "> &nbsp; &nbsp; &nbsp; ***4) Interface "Client"***  
 <img src="/images/1.png" alt=" ">   
