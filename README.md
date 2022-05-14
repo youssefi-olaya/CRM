@@ -1,4 +1,4 @@
-#  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Application de gestion des relations clientèles(CRM)
+#  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Application de gestion des relations clientèles(CRM)
 
 
 **sommaire :**  
@@ -25,7 +25,7 @@
 **************************************************************************************************   
 ### ***1) Interface d'authentification.***  
 <img src="/../images/pr.png" alt=""/>
-
+![Alt text](/../images/pr.png)
 
 
 
