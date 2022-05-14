@@ -24,8 +24,8 @@
       <div id='idd'/> 
 **************************************************************************************************   
 ### ***1) Interface d'authentification.***  
-<img src="/../images/pr.png" alt=""/>
-![Alt text](/../images/pr.png)
+<img src="/images/LOGIN.png" alt="IMAGE"/>
+
 
 
 
