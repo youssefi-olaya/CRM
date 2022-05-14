@@ -29,7 +29,7 @@
       <div id='id1'/>  
 **************************************************************************************************   
 ### &nbsp; &nbsp; &nbsp; ***1) Interface d'authentification.***  
-<img src="/images/LIGIN.png" alt=" "> 
+<img src="/images/LOGIN.png" alt=" "> 
 
 Cette interface est la toute première interface dans notre application et elle est subdivisée en trois parties :  
 
@@ -39,11 +39,13 @@ Si les données fournies sont incorrectes l’utilisateur va être redirigé ver
      
      
 •&nbsp;***La 2ème partie :*** c'est un lien qui nous mène a la page **"mot de passe oublier?".**    
- &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;<img src="/images/1.png" alt=" ">  
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img src="/images/PWD1.png" alt=" ">  
  
   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;Ici il faut taper l'email et on va avoir une des deux resultat:  
-   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;- Soit la phrase **"Erreur! L'Email est incorrecte!!!"**  
-    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;- soit la phrase **"Un message contenant votre nouveau mot de passe a été envoyé sur votre adresse Email."**  
+   &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;- Soit la phrase  
+ &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;  <img src="/images/SUCC.png" alt=" ">  
+    &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;- soit la phrase  
+&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp;<img src="/images/SUCC1.png" alt=" "> 
      <div id='id3'/>  
      
      
