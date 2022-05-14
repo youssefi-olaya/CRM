@@ -19,5 +19,5 @@
  **8) Interface "Facture"**  
       •  Interface "Ajouter Une Facture"  
  **9) Interface "Devis"**  
-      •  Interface "Modifier Un Devis" 
-      •  Interface "Ajouter Un Devist" 
+      •  Interface "Modifier Un Devis"  
+      •  Interface "Ajouter Un Devis" 
