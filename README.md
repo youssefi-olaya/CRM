@@ -1,23 +1,31 @@
-# projet CRM
+#  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; Application de gestion des relations clientèles(CRM)
+
 
 **sommaire :**  
 
-
- **1) Interface d'authentification.**  
+[**1) Interface d'authentification.** ](#idd)  
  **2) Interface "mot de passe oublier?"**  
  **3) Interface "créer un compte"**   
  **4) Interface "Tableau de bord"**  
  **5) Interface "Utilisateurs"**  
-      •  Interface "Modifier Un Utilisateur"  
-      •  Interface "Changer le mot de passe"  
+       &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Modifier Un Utilisateur"  
+       &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Changer le mot de passe"  
  **6) Interface "Client"**  
-      •  Interface "Modifier un client"  
-      •  Interface "Ajouter Un Client"  
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Modifier un client"  
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Ajouter Un Client"  
  **7) Interface "Projet"**  
-      •  Interface "Modifier Un Projet"   
-      •  Interface "Ajouter Un Projet"  
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Modifier Un Projet"   
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Ajouter Un Projet"  
  **8) Interface "Facture"**  
-      •  Interface "Ajouter Une Facture"  
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Ajouter Une Facture"  
  **9) Interface "Devis"**  
-      •  Interface "Modifier Un Devis"  
-      •  Interface "Ajouter Un Devis" 
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Modifier Un Devis"  
+      &nbsp; &nbsp; &nbsp;•&nbsp; Interface "Ajouter Un Devis" 
+      <div id='idd'/> 
+**************************************************************************************************   
+### ***1) Interface d'authentification.***  
+<img src="/../images/pr.png" alt=""/>
+
+
+
+
