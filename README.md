@@ -1,4 +1,4 @@
-#  &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Application de gestion des relations clientèles(CRM)
+#  Application de gestion des relations clientèles(CRM)
 
 
 **sommaire :**  
@@ -24,7 +24,8 @@
       <div id='idd'/> 
 **************************************************************************************************   
 ### ***1) Interface d'authentification.***  
-<img src="/images/LOGIN.png" alt="IMAGE"/>
+<img src="/images/LOGIN.png" alt=" "/>
+
 
 
 
