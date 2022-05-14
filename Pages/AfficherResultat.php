@@ -35,7 +35,7 @@
     </thead>
     <tbody>
     <?php 
-     while($client=$ResultatClient->fetch()){?>
+     while($client=$ResultatNom->fetch()){?>
                                 <tr>
                                     <td><?php echo $client['idclients'] ?> </td>
                                     <td><?php echo $client['nom'] ?> </td>
