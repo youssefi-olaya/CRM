@@ -17,7 +17,7 @@
       •  Interface "Modifier Un Projet"   
       •  Interface "Ajouter Un Projet"  
  **8) Interface "Facture"**  
-      •  Interface "Ajouter Une Facture" 
+      •  Interface "Ajouter Une Facture"  
  **9) Interface "Devis"**  
       •  Interface "Modifier Un Devis" 
       •  Interface "Ajouter Un Devist" 
