@@ -1,4 +1,4 @@
-# Application de gestion des relations clientèles(CRM)
+# <img src="/images/CRM2.png" alt=" "> Application de gestion des relations clientèles(CRM)
 
 **sommaire :**  
 
@@ -24,7 +24,7 @@
 **************************************************************************************************   
 ### ***1) Interface d'authentification.***  
 <img src="/images/1.png" alt=" ">
-<img src="/images/MDW.png" alt=" ">
+
 
 
 
