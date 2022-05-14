@@ -43,6 +43,10 @@ Si les données fournies sont incorrectes l’utilisateur va être redirigé ver
 **************************************************************************************************   
  &nbsp; &nbsp; &nbsp;•&nbsp; mot de passe oublier?  
  <img src="/images/1.png" alt=" ">  
+ 
+ 
+ 
+ 
        <div id='idddd'/>  
 **************************************************************************************************   
  &nbsp; &nbsp; &nbsp;•&nbsp; créer un compte  
