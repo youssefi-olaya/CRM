@@ -78,7 +78,7 @@ Il y a trois options dans cette page :
 - **supression**  
 <img src="/images/SUP1.png" alt=" ">  
 
-- **activer/desactiver**   
+- **activer/desactiver**  <img src="/images/valide1.png" alt=" "> / <img src="/images/invalide1.png" alt=" ">
         <div id='id6'/>  
         
 - **modifier un utilisateur**   
@@ -97,59 +97,68 @@ Il y a trois options dans cette page :
      * "Félicitation! Votre mot de passe est modifié avec succés " 
      <div id='id8'/>    
 **************************************************************************************************    
-### <img src="/images/clent1.png" alt=" "> &nbsp; &nbsp; &nbsp; ***4) Interface "Client"***  
-<img src="/images/1.png" alt=" ">   
+### &nbsp; &nbsp; &nbsp; ***4) Interface "Client"***  
+<img src="/images/C1.png" alt=" ">   
 
-Il y a trois options dans cette page :  
+Il y a 4 options dans cette page :  
 - **supression**  
+  - c'est une supression aprés confirmation.
+ <img src="/images/SUP1.png" alt=" ">
         <div id='id9'/>
         
 - **ajouer un client :**    
-        <img src="/images/1.png" alt=" ">  
+        <img src="/images/C2.png" alt=" ">  
         <div id='id10'/>
         
 - **modifier un client**     
-         <img src="/images/1.png" alt=" ">   
+         <img src="/images/C3.png" alt=" ">   
+       
+- **RECHERCHE**  
+         <img src="/images/C4.png" alt=" ">   
         <div id='id11'/>  
 **************************************************************************************************   
 ### &nbsp; &nbsp; &nbsp; ***5) Interface "Projet"***  
-<img src="/images/1.png" alt=" ">   
+<img src="/images/R1.png" alt=" ">   
 
 Il y a trois options dans cette page :  
 - **supression**  
+  - c'est une supression aprés confirmation.
+<img src="/images/SUP1.png" alt=" ">
         <div id='id12'/> 
         
-- **ajouer un projet :**    
-        <img src="/images/1.png" alt=" ">  
+- **ajouter un projet :**    
+        <img src="/images/R2.png" alt=" ">  
          <div id='id13'/>
          
-- **modifier un client**    
-         <img src="/images/1.png" alt=" ">   
+- **modifier un projet**    
+         <img src="/images/R3.png" alt=" ">   
         <div id='id14'/>  
 **************************************************************************************************   
 ### &nbsp; &nbsp; &nbsp; ***5) Interface "facture"***  
-<img src="/images/1.png" alt=" "> 
+<img src="/images/F1.png" alt=" "> 
 
 Il y a deux options dans cette page :  
 - telechargement de la facture sous format pdf.   
         <div id='id15'/>  
 - **ajouter une facture**  
-        <img src="/images/1.png" alt=" ">   
+        <img src="/images/F2.png" alt=" ">   
         <div id='id16'/>  
 **************************************************************************************************   
 ### &nbsp; &nbsp; &nbsp; ***9) Interface "Devis"***  
-<img src="/images/1.png" alt=" ">  
+<img src="/images/D1.png" alt=" ">  
 
 
 Il y a trois options dans cette page :  
 - **supression**  
+  - c'est une supression aprés confirmation.  
+-<img src="/images/SUP1.png" alt=" ">
         <div id='id17'/> 
         
-- **ajouer un devis :**    
-        <img src="/images/1.png" alt=" ">  
+- **ajouter un devis :**    
+        <img src="/images/D2.png" alt=" ">  
          <div id='id18'/>
          
 - **modifier un devis**    
-         <img src="/images/1.png" alt=" ">   
+         <img src="/images/D3.png" alt=" ">   
 ****************************************************************************************************
  # fin
